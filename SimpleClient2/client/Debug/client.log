@@ -1,0 +1,4 @@
+﻿  client.cpp
+c:\users\pusheen\source\repos\simpleclient2\client\client.cpp(33): warning C4101: 'buf': unreferenced local variable
+  client.vcxproj -> C:\Users\pusheen\source\repos\SimpleClient2\Debug\client.exe
+  client.vcxproj -> C:\Users\pusheen\source\repos\SimpleClient2\Debug\client.pdb (Partial PDB)

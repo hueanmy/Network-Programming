@@ -1,0 +1,4 @@
+﻿  server.cpp
+c:\users\pusheen\source\repos\simpleclient2\server\server.cpp(43): warning C4551: function call missing argument list
+  server.vcxproj -> C:\Users\pusheen\source\repos\SimpleClient2\Debug\server.exe
+  server.vcxproj -> C:\Users\pusheen\source\repos\SimpleClient2\Debug\server.pdb (Partial PDB)
